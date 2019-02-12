@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1 style="font-size:300%;">Customer Information</h1>
+<p>First name:<p>
+<p>Last name:<p>
+<p>Email:</p>
+<button>Submit</button>
+<tagname style="property:value;">
+
+</body>
+</html>
